@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Resolução do exercício com utilização de Scanner e StringBuilder
 public class ExercicioCinco {
     public static void main(String[] args) {
         Scanner palindromo = new Scanner(System.in);
