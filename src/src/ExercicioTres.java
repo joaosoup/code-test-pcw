@@ -28,7 +28,7 @@ class ExercicioTres {
 
     public static void main(String[] args) {
         String s = "ababad";
-        System.out.println(maiorPalindromo(s));
+        System.out.println("O maior palindromo da frase passada é: " + maiorPalindromo(s));
 
     }
 }
