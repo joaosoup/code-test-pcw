@@ -1,4 +1,4 @@
-## Teste de código - PCW
+## Teste de código - PWC
 
 Olá! Me chamo João Victor e estou participando da etapa de código do processo seletivo da PWC! Estou muito contente com meu resultado e com o que tenho para aprimorar ao longo do tempo. Abraços!
 
